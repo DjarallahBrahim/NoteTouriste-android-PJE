@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NoteT</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_hide">Hide Panel</string>
+    <string name="action_show">Show Panel</string>
+    <string name="action_anchor_enable">Enable Anchor Point</string>
+    <string name="action_anchor_disable">Disable Anchor Point</string>
+    <string name="google_maps_api_key">AIzaSyAEZDZDqbrF6vdGPNYREA1JNnMhBv_h7GM</string>
+    <string name="title_activity_maps">Map</string>
+    
+    <string-array name="tri_recycler">
+        <item>Date</item>
+        <item>Titre</item>
+    </string-array>
+</resources>
